@@ -1,5 +1,8 @@
 # WebRTC/PeerJS Video Chat
 A basic video chat example using **WebRTC** and **PeerJS** (*PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls*).
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/86023602/152001336-1146b512-dc7f-4a5b-aa09-72062bdcab07.png" />
+</div>
 
 ## Getting Started
 type in the terminal the following:
