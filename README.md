@@ -5,7 +5,7 @@ A basic video chat example using **WebRTC** and **PeerJS** (*PeerJS simplifies W
 </div>
 
 ## Getting Started
-type in the terminal the following:
+type in the terminal the following commands:
 ```bash
 # Clone from Github
 git clone https://github.com/AtilMohAmine/WebRTC-Video-Chat VideoCall
